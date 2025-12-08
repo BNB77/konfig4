@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 import sys
+
 from interpreter import interpret, InterpreterError
 from parser import ParserError
 from lexer import LexerError
